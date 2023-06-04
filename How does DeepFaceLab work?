@@ -1,0 +1,1 @@
+First the individual frames of each video are converted into an image sequence. Then DeepFaceLab can detect the faces in each image and create a separate file for each face with important metadata embedded. These collections of images (facesets) are then cleaned up by removing false detections and other unwanted faces.
